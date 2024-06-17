@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anchalsingh2929 Python | Flask | FastAPI | Linux | Git | Virtualization | Clouds | SSH | HTML | CSS 
+- 👋 Hi, I’m @anchalsingh2929 Skilled in Python | Flask | FastAPI | Linux | Git | Virtualization | Clouds | SSH | HTML | CSS 
 - 👀 I’m interested in Paid/Unpaid Internship
 - 🌱 I’m currently learning FastAPI
 - 📫 How to reach me anchalsingh2929 at linkedin
