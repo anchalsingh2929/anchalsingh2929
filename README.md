@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anchalsingh2929 Skilled in Python | Flask | FastAPI | Linux | Git | Virtualization | Clouds | SSH | HTML | CSS 
-- 👀 I’m interested in Paid/Unpaid Internship
-- 🌱 I’m currently learning FastAPI
-- 📫 How to reach me anchalsingh2929 at linkedin
+- 👋 Hi, I’m @anchalsingh2929 Skilled in Python | Flask | FastAPI | Linux | Git | Virtualization | Clouds | SSH | HTML | CSS
+- Currently im learning about **Container** and **Kubernetes**
+- 📫 How to reach me **anchalsingh2929** at linkedin
+- Currently looking for an opportunity ,to work as **QUALITY ENGINEER** 
 - 😄 Pronouns: She/Her
 
 <!---
